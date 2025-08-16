@@ -1,5 +1,10 @@
 video :
 
+
+Uploading video_20250816_232751.mp4…
+
+
+
 # crop_sell
 🌱 Smart Crop Price Advisor – Agriculture-G-AI
 
